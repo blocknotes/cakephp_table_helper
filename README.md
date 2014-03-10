@@ -1,8 +1,17 @@
+# PROJECT UNMAINTAINED
+
+> *This project is not maintained anymore*
+>
+> *If you like it or continue to use it fork it please.*
+
+* * *
+* * *
+
 A CakePHP Bootstrap Table Helper
 --------------------------------
 An easy to use Helper that produce well formed tables using Twitter Bootstrap 3 (<http://getbootstrap.com>).
 
-![Screenshot](http://github.com/blocknotes/cakephp_table_helper/raw/master/image1.png)
+![Screenshot](image1.png)
 
 * * *
 
@@ -66,4 +75,4 @@ tableFromData() adds automatically the row id to the tr elements of the table bo
 
 * * *
 
-My website: <http://blocknot.es/>
+My website: <https://blocknot.es/>
